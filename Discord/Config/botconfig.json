@@ -1,0 +1,13 @@
+﻿{
+  "Token": "",
+  "Prefix": "/",
+  "GuidId": "",
+  "BlofinAPIKey": "",
+  "BlofinAPISecret": "",
+  "BlofinPassphrase": "",
+  "BaseBlofinAPIUri": "https://openapi.blofin.com",
+  "BaseBitgetAPIUri": "https://api.bitget.com",
+  "ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Database=postgres;Username=postgres;Password=VaNOSilla2022"
+  }
+}
